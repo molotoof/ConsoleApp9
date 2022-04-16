@@ -10,6 +10,7 @@ namespace ConsoleApp9
             double e;
 
             Console.WriteLine("blablabla");
+            Console.WriteLine("qweqweqe");
         }
     }
 }
