@@ -7,6 +7,8 @@ namespace ConsoleApp9
         static void Main(string[] args)
         {
             int r;
+            double e;
+
             Console.WriteLine("blablabla");
         }
     }
